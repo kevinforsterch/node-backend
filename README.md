@@ -8,10 +8,6 @@
 
 > A example REST API example made with Node.js
 
-## API docs
-
-- https://andre000.github.io/node-backend-example/
-
 ## Requirements
 
 - Docker
@@ -69,7 +65,7 @@ npm run docs
 
 👤 **Roy Kai**
 
-* Github: [@andre000](https://github.com/google-fan)
+* Github: [@google-fan000](https://github.com/google-fan)
 
 ## Show your support
 
