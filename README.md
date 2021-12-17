@@ -67,10 +67,9 @@ npm run docs
 
 ## Author
 
-👤 **Andre L. Adriano**
+👤 **Roy Kai**
 
-* Github: [@andre000](https://github.com/andre000)
-* LinkedIn: [@andreadriano](https://linkedin.com/in/andreadriano)
+* Github: [@andre000](https://github.com/google-fan)
 
 ## Show your support
 
